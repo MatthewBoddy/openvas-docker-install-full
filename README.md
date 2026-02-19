@@ -19,15 +19,24 @@ Autor: Matheus Henrique Ferreira Bariani e Perplexity AI
 Passo 1: Verifica se o SO está atualizado
 
 Passo 2: Seleção de distribuição Linux
+
 Passo 3: Instalação do Docker por SO
+
 Passo 4: Criar diretório de download
+
 Passo 5: Baixar docker-compose.yml
+
 Passo 6: Pull das imagens
+
 Passo 7: Up dos containers COM VERBOSE PROGRESSO
 - Essa etapa tem um timeout de 900 segundos
+  
 Passo 8: Log em tempo real
+
 Passo 9: Alterar senha admin
+
 Passo 10: Abrir interface gráfica
+
 - Possível apenas se estiver em ambiente gráfico
 - Não funciona para WSL ou SO apenas em CLI
 Passo 11: Info final
