@@ -17,6 +17,7 @@ Autor: Matheus Henrique Ferreira Bariani e Perplexity AI
 
 ### O QUE O SCRIPT FAZ:
 Passo 1: Verifica se o SO está atualizado
+
 Passo 2: Seleção de distribuição Linux
 Passo 3: Instalação do Docker por SO
 Passo 4: Criar diretório de download
