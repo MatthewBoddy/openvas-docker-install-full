@@ -8,13 +8,13 @@ Script to install docker in any Linux Based machine
 - Execute (./openvas-docker-install-full.sh)
   OBS: não precisa ser root para executar, mas ao longo do processo será solicitado
 
-# ========================================
+# =======================================
 # Script interativo para instalação do Greenbone Community Containers via Docker
 # Alinhado à documentação oficial Greenbone
 # Não é necessário executar com privilégios, o script irá pedir sudo onde necessário.
 # Testado em Debian / Ubuntu / Fedora / CentOS / WSL Ubuntu (todas as versões).
 # Autor: Matheus Henrique Ferreira Bariani e Perplexity AI
-# ============================================================
+# =======================================
 
 # O QUE O SCRIPT FAZ:
 Passo 1: Verifica se o SO está atualizado
@@ -31,7 +31,7 @@ Passo 10: Abrir interface gráfica
 - Possível apenas se estiver em ambiente gráfico
 - Não funciona para WSL ou SO apenas em CLI
 Passo 11: Info final
-# ============================================================
+# =======================================
 
 # CASO DÊ ERRO:
 # Se alguma etapa falhar ou acusar algum erro basta apenas
@@ -41,21 +41,21 @@ ENGLISH VERSION
 openvas-docker-install-full
 Docker installation script for any Linux machine
 
-# ============================================================
+# =======================================
 USAGE
 Download the .sh file or copy its contents.
 Make it executable: chmod +x openvas-docker-install-full.sh
 Run it: ./openvas-docker-install-full.sh
 Note: No root access needed upfront; the script prompts for sudo as required.
 
-# =============================================================
+# =======================================
 SCRIPT OVERVIEW  
 Interactive installer for Greenbone Community Containers using Docker.
 Follows official Greenbone documentation.
 Runs without root; requests sudo only when needed.
 Tested on: Debian, Ubuntu, Fedora, CentOS, WSL Ubuntu (all versions).
 Author: Matheus Henrique Ferreira Bariani & Perplexity AI
-# ============================================================
+# =======================================
 
 WHAT THE SCRIPT DOES
 Checks OS updates – Ensures your system is current.
@@ -69,7 +69,7 @@ Shows real-time logs – Monitors startup live.
 Changes admin password – Secure your setup.
 Opens web UI – Launches browser (graphical env only; skips on WSL/CLI).
 Displays final info – Access details and next steps.
-# ============================================================
+# =======================================
 
 TROUBLESHOOTING ERRORS
 If a step fails:
