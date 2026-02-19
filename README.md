@@ -14,7 +14,6 @@ Alinhado à documentação oficial Greenbone
 Não é necessário executar com privilégios, o script irá pedir sudo onde necessário.
 Testado em Debian / Ubuntu / Fedora / CentOS / WSL Ubuntu (todas as versões).
 Autor: Matheus Henrique Ferreira Bariani e Perplexity AI
-=======================================
 
 ### O QUE O SCRIPT FAZ:
 Passo 1: Verifica se o SO está atualizado
@@ -48,14 +47,13 @@ Make it executable: chmod +x openvas-docker-install-full.sh
 Run it: ./openvas-docker-install-full.sh
 Note: No root access needed upfront; the script prompts for sudo as required.
 
-=======================================
-### SCRIPT OVERVIEW  
+
+### SCRIPT OVERVIEW
 Interactive installer for Greenbone Community Containers using Docker.
 Follows official Greenbone documentation.
 Runs without root; requests sudo only when needed.
 Tested on: Debian, Ubuntu, Fedora, CentOS, WSL Ubuntu (all versions).
 Author: Matheus Henrique Ferreira Bariani & Perplexity AI
-=======================================
 
 ### WHAT THE SCRIPT DOES
 Checks OS updates – Ensures your system is current.
@@ -69,7 +67,6 @@ Shows real-time logs – Monitors startup live.
 Changes admin password – Secure your setup.
 Opens web UI – Launches browser (graphical env only; skips on WSL/CLI).
 Displays final info – Access details and next steps.
-=======================================
 
 ### TROUBLESHOOTING ERRORS
 If a step fails:
