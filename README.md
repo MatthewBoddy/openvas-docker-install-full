@@ -1,14 +1,14 @@
 # openvas-docker-install-full
 Script to install docker in any Linux Based machine
 
-# ============================================================
+# =======================================
 # MODO DE USO:
 - Baixe o arquivo .sh (ou copie seu conteúdo)
 - Dê permissão de execução (chmod +x openvas-docker-install-full.sh)
 - Execute (./openvas-docker-install-full.sh)
   OBS: não precisa ser root para executar, mas ao longo do processo será solicitado
 
-# ============================================================
+# ========================================
 # Script interativo para instalação do Greenbone Community Containers via Docker
 # Alinhado à documentação oficial Greenbone
 # Não é necessário executar com privilégios, o script irá pedir sudo onde necessário.
