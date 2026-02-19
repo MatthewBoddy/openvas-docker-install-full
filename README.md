@@ -51,7 +51,7 @@ Passo 11: Info final
 
 =======================================
 
-##ENGLISH VERSION
+## ENGLISH VERSION
 
 openvas-docker-install-full
 
